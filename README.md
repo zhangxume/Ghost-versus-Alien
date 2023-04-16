@@ -1,5 +1,5 @@
 # Ghost versus Alien
-#### Video Demo:  <https://youtu.be/O6h5VgVjY1o>
+#### Video Demo:  [demo](https://youtu.be/O6h5VgVjY1o)
 #### Description:
 > 👻 Ghost versus 👽 Alien game.  
 This is a simple python game played in the terminal window.  
