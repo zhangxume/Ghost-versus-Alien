@@ -1,7 +1,7 @@
 # Ghost versus Alien
 #### Video Demo:  <https://youtu.be/O6h5VgVjY1o>
 #### Description:
-> 👻 Ghost versus 👽 Alien game.
+> 👻 Ghost versus 👽 Alien game.  
 This is a simple python game played in the terminal window.  
 In this game, you will play as a ghost character and your rival is an alien. Each character has corresponding attributes. Each character also has an attack function and a defense function, if the character is attacked, it will reduce HP which use ❤️ as the symbol, and if actively defending, it can avoid receiving damage. Finally, the winner will receive a shiny award cup 🏆
 - How to play
